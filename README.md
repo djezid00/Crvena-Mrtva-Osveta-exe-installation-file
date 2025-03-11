@@ -3,6 +3,28 @@
 ## Overview
 Crvena Mrtva Osveta is a Western-themed top-down shooter featuring retro pixel art visuals, dynamic gameplay mechanics, and AI-driven enemies developed in GameMaker Studio 2. This document provides clear, step-by-step instructions to install the game on your system 
 
+## Screenshots
+*   **Main menu:**
+  
+![Main menu](cmo_image_4.png)
+
+
+*   **Map:**
+  
+![Map](cmo_image_3.png)
+
+
+  *   **Gameplay:**
+  
+![Map](cmo_image_5.png)
+  
+![Map](cmo_image_6.png)
+
+*   **Development:**
+  
+![Map](cmo_image_1.png)
+![Map](cmo_image_2.png)
+
 ## System Requirements
 - **Operating System:** Windows 7/8/10/11 or macOS (if applicable) 
 - **Processor:** 1.6 GHz or higher
